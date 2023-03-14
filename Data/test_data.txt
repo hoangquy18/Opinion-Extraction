@@ -1,0 +1,355 @@
+{"id":4893,"text":"mỏng nhẹ, đáp ứng nhiều nhu cầu cần thiết","label":[[0,8,"DESIGN#POSITIVE"],[10,41,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":1323,"text":"Máy dùng ổn định giá cả hợp lí","label":[[0,16,"PERFORMANCE#POSITIVE"],[17,30,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":1545,"text":"\"Sản phẩm sử dụng tốt cho học tập, loa hơi nhỏ\"","label":[[1,33,"GENERAL#POSITIVE"],[35,46,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":1995,"text":"Mới mua về 2 ngày ngày bị tịt 1 loa. Chán ko buồn nói. Không biết về sau bị lỗi gì nữa ko","label":[[0,35,"MULTIMEDIA_DEVICES#NEGATIVE"],[37,53,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":4970,"text":"sản phẩm được trang bị đầy đủ các cổng giao tiếp và kết nối cần thiết, shop hỗ trợ tư vấn nhiệt tình","label":[[0,69,"CONNECTIVITY#POSITIVE"],[71,100,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5067,"text":"Máy có tốc độ cực nhanh, làm việc rất hiệu quả","label":[[0,46,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4853,"text":"Dùng văn phòng nhẹ nhàng và học tập online giải trí tốt","label":[[0,55,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5175,"text":"Cấu hình siêu mạnh với Intel Core i7 1260P, quá tuyệt vời","label":[[0,57,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5135,"text":"Đã mua sản phẩm này, cảm thấy hài lòng về chất lượng và dịch vụ của shop 491 lê duẩn","label":[[21,72,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4692,"text":"Bàn phím chơi game chuyên dụng, âm thanh cực đã","label":[[0,30,"KEYBOARD#POSITIVE"],[32,47,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":3198,"text":"\"sản phẩm được trang bị đầy đủ mọi cổng kết nối cần thiết, hỗ trợ mạng WiFi 6 tốc độ cao và công nghệ khử ồn AI khi đàm thoại.\"","label":[[1,57,"CONNECTIVITY#POSITIVE"],[59,125,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":1597,"text":"\"Máy sử dụng rất ok.. cấu hình ổn, chạy mượt mà..\"","label":[[1,19,"GENERAL#POSITIVE"],[22,47,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":3001,"text":"\"Máy giá trị trên hiệu năng cực kì tốt, tuy nhiên có phần mình không thích màu máy lắm, có màu xám hay bạc thì tốt\"","label":[[1,38,"GENERAL#POSITIVE"],[40,114,"DESIGN#NEGATIVE"]],"Comments":[]}
+{"id":1414,"text":"Mở máy hơi lâu chạy thỉnh thoảng lag","label":[[0,36,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":5368,"text":"Ngoại hình sang, cam rất nét. Về điểm số thì chip với cam 10 điểm, ngoại hình 9.9.","label":[[0,15,"DESIGN#POSITIVE"],[17,28,"MULTIMEDIA_DEVICES#POSITIVE"],[30,81,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5244,"text":"Máy có sẵn các cổng kết nối đa dạng , phổ thông nhất hiện nay","label":[[0,61,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":5212,"text":"dẳng cấp vượt trội , chơi game đỉnh cao","label":[[0,39,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1387,"text":"Còn này mới mua mà màu hết pin quá","label":[[19,34,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":4849,"text":"máy bắt kết nối mạng wifi nhanh và rất ổn định,","label":[[0,46,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":2559,"text":"\"Sau gần 1 tháng trải nghiệm mình rất hài lòng với em này, mình hay chiến các thể loại game FPS máy chạy rất êm, không giật lag, không tụt fps. Game mình đang chơi Call Of Duty Warzone, Morder warfare với mức Low setting, Riêng em Rainbow 6 max setting. Nên trang bị thêm đế tản nhiệt cho em nó thì thoải mái chiến các tựa game FPS. Ngon bổ rẻ.\"","label":[[29,57,"GENERAL#POSITIVE"],[96,142,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5186,"text":"Viên pin dung lượng lớn 75Wh giúp máy tính có thể làm việc được trong thời gian lên tới 18 giờ liên tục","label":[[0,103,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":4532,"text":"Máy có các tính năng hiện đại, chuyên nghiệp, xứng đáng với giá tiền","label":[[0,44,"FEATURES#POSITIVE"],[46,68,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5436,"text":"chính sách bảo hành máy dài hạn và được tặng thêm 1 năm dành cho sinh viên, rất là an tâm dùng","label":[[0,94,"WARRATY#POSITIVE"]],"Comments":[]}
+{"id":2242,"text":"\"Máy dùng lúc đầu khá ok nhưng sau vài hôm có vẻ như hơi trục trặc máy kêu tiếng gì lạ lắm và máy còn nhanh nóng, nhanh hết pin nữa...\"","label":[[102,112,"FANS_COOLING#NEGATIVE"],[114,127,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":1527,"text":"\"Máy nhẹ, chạy nhanh, thuận tiện mang đi làm\"","label":[[1,8,"DESIGN#POSITIVE"],[9,20,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5052,"text":"bàn di chuột lớn giúp cho độ nhạy của việc di chuyển được chuẩn xác hơn","label":[[0,71,"TOUCHPAD#POSITIVE"]],"Comments":[]}
+{"id":2466,"text":"\"Mua được 1 tuần do đi làm nên cũng ít sử dụng thấy máy pin quá kém. Sử dụng tác vụ bình thường 2 tiếng từ 100% còn được 40% pin.tắt máy để qua đêm không sử dụng cũng mất 3  đến 4% pin.","label":[[56,67,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":5337,"text":"chất lượng âm thanh hoàn hảo cho trải nghiệm game tuyệt vời","label":[[0,59,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":2550,"text":"\"máy nóng muốn phỏng tay, dù chỉ mới mở lên. pin thì được 4 tiếng, ko được 8-10h như quảng cáo. khe touchpad hở quá lớn nên bụi hay rác dễ lọt vào. còn lại thì ok, máy mạnh, chạy photoshop, chơi game nặng các kiểu vivu, nhưng phải ngồi phòng máy lạnh nha, ngồi ngoài là nóng phỏng tay ko chơi được đâu.\"","label":[[1,24,"FANS_COOLING#NEGATIVE"],[45,65,"BATTERY#NEGATIVE"],[96,146,"TOUCHPAD#NEGATIVE"],[164,218,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4768,"text":"Sản phẩm tiết kiệm Pin dùng được khá lâu, còn hỗ trợ cả sạc nhanh nên hết Pin sạc lúc là dùng tiếp được","label":[[0,103,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":2683,"text":"- Chưa đến 3 tháng thì màn hình bị nhiễu như này, tôi mua mới tại Thế Giới Di Động, nhưng cứ như tôi đang sử dụng hàng cũ hoặc hàng trưng bày cũ. Nữ cửa hàng trưởng nơi tôi mua thái độ ko mún xử lý. Tôi quyết định trả lại máy cho công ty, và công ty lấy 40%, trả lại tôi chỉ 60% giá trị máy.","label":[[146,197,"SERVICE#NEGATIVE"]],"Comments":[]}
+{"id":2299,"text":"\"Laptop cực mạnh chơi game, viết code nặng tốt, trọng lượng nhẹ, trắng sang trọng như macbook.","label":[[1,46,"PERFORMANCE#POSITIVE"],[48,81,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5198,"text":"có thể xoay ngược để xem phim, hoặc gập chéo theo dạng lều để trình chiếu, tuyệt!","label":[[0,80,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5118,"text":"Máy mỏng nhẹ, cấu hình tốt và shop tư vấn nhiệt tình","label":[[0,12,"DESIGN#POSITIVE"],[14,26,"PERFORMANCE#POSITIVE"],[30,52,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5208,"text":"xứng đáng là “ông vua” giá rẻ khi có cấu hình tuyệt vời trong một thiết kế di động.","label":[[0,82,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":3256,"text":"\"sản phẩm được trang bị quạt tản nhiệt tiên tiến có khả năng lưu thông luồng khí tốt, duy trì hiệu năng ổn định trong thời gian dài\"","label":[[1,84,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":4866,"text":" màn hình bảo vệ mắt, máy khỏe và đẹp,đa dạng cổng kết nối phù hợp","label":[[0,20,"DISPLAY#POSITIVE"],[22,37,"GENERAL#POSITIVE"],[38,66,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":2831,"text":"\"Máy có hiệu năng cực kì ổn định, chơi các tựa game AAA cũng rất mượt mà, tản nhiệt tốt chơi rất yên tâm","label":[[1,72,"PERFORMANCE#POSITIVE"],[74,87,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":4704,"text":"Nhân viên tư vấn rất tốt, sản phẩm đúng như mô tả!","label":[[0,24,"SERVICE#POSITIVE"],[26,49,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5279,"text":"Sản phẩm tốt, chất lượng. Tốc độ xử lý mượt mà, nhanh xứng với giá tiền đã bỏ ra.","label":[[0,24,"GENERAL#POSITIVE"],[26,80,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1492,"text":"Cũng tạm đc .dán màn hình chưa đc đẹp lắm","label":[[0,11,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":2660,"text":"Tổng kết lại: máy đẹp, hầm hố, cấu hình mạnh, build chắc chắn, đáng mua!\"","label":[[14,29,"DESIGN#POSITIVE"],[31,44,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4705,"text":"Bản lề của máy cho phép mở màn hình đến 180 độ, hạn chế hỏng hóc so với bản lề 120 độ thông thường","label":[[0,98,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":2272,"text":"\"mọi thứ đều ổn, nhanh, nhạy, nhưng có điều không thích ở đây là lâu lâu wifi bị load chậm, kết nối wifi chưa ổn lắm. Mọi thứ thì ok hết nha\"","label":[[1,28,"PERFORMANCE#POSITIVE"],[73,116,"FEATURES#NEGATIVE"],[117,140,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2140,"text":"\"máy êm, ổn định, quạt không quá to , máy chiến game tốt , cứng cáp , xài yên tâm hơn con Trùng Chỉ MSI 30 củ .\"","label":[[1,16,"PERFORMANCE#POSITIVE"],[18,35,"FANS_COOLING#NEUTRAL"]],"Comments":[]}
+{"id":5123,"text":"Máy cực nhỏ gọn hiệu năng tốt, hỗ trợ gập lại như tablet giải trí rất tiện","label":[[0,15,"DESIGN#POSITIVE"],[16,29,"PERFORMANCE#POSITIVE"],[31,74,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":2596,"text":"- nhôm trên máy rất mỏng.","label":[[2,24,"DESIGN#NEGATIVE"]],"Comments":[]}
+{"id":4557,"text":"máy với kiểu dáng mỏng nhẹ, ngôn ngữ thiết kế hiện đại và hoàn thiện tinh tế tạo nên nét đẹp sang trọng","label":[[0,103,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":4921,"text":"HP Pavilion 14 còn có sẵn 8GB RAM bộ nhớ kênh đôi, thoải mái cho hoạt động đa nhiệm, làm nhiều công việc cùng lúc.","label":[[0,113,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4929,"text":"Máy có cấu hình cực khủng, tốc độ chạy và truyền dữ dữ liệu siêu nhanh","label":[[0,25,"PERFORMANCE#POSITIVE"],[27,70,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":4998,"text":"mình đánh giá cấu hình ngon trong tầm giá, nhưng độ bền thì cần thêm thời gian","label":[[0,41,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4899,"text":"Chất lượng âm thanh trên HP Pavilion x360 được đầu tư kỹ lưỡng nhờ dải loa ngoài ấn tượng, công nghệ khuếch âm HP Audio Boost và công nghệ B&O Play cao cấp","label":[[0,155,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":5140,"text":"thực hiện các cuộc gọi video, họp rõ nét kèm theo âm thanh chân thực","label":[[0,68,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":5059,"text":"Công nghệ khử nhiễu thế hệ mới, tăng cường chất lượng cuộc gọi","label":[[0,62,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":5451,"text":"thiết kế siêu mỏng nhẹ và màn hình Full HD sắc nét.","label":[[0,22,"DESIGN#POSITIVE"],[26,50,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5214,"text":"Màn hình Chuwi GemiBook Pro đủ khả năng để đáp ứng những công việc chuyên nghiệp.","label":[[0,80,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":1437,"text":"\"Hàng tốt, chạy em, tư vấn nhiệt tình.\"","label":[[1,9,"GENERAL#POSITIVE"],[11,18,"PERFORMANCE#POSITIVE"],[20,37,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1474,"text":"\"Máy ổn, sử dụng tiện lợi, ít gặp vấn đề.\"","label":[[1,40,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2473,"text":"\"Mua được tầm 4 tháng. Sản phẩm rất tệ, mới mua về quạt chạy kêu phè phè. đến hôm nay chết nguồn, ko bật kiểu gì lên được. đang thời gian làm việc ở nhà, dịch ko đi đâu được. dữ liệu cũng để hết trong máy. quá thất vọng.\"","label":[[23,38,"GENERAL#NEGATIVE"],[74,121,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":5005,"text":"Sản phẩm nhỏ gọn cực kì, như 1 chiếc tablet thôi ấy, tuy nhiên khá tiếc vì không có nâng cấp được","label":[[0,51,"DESIGN#POSITIVE"],[53,97,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":4915,"text":"Màn hiển thị sắc nét ,xem phim hay chơi game đều cho trải nghiệm tốt.","label":[[0,20,"DISPLAY#POSITIVE"],[22,68,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5353,"text":"Màn hình lớn 16 inch 2.5K 120Hz tuyệt sắc, hình ảnh rõ nét","label":[[0,58,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5240,"text":"máy đáp ứng được tốt nhu cầu công việc của mình, hài lòng","label":[[0,57,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2835,"text":"máy có bàn phím được trang bị hệ thống LED đơn sắc có thể dễ dàng hoạt động trong môi trường thiếu sáng.","label":[[0,103,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":5114,"text":"Máy đẹp, giao hàng siêu nhanh. Pin lâu, Vận hành mượt mà","label":[[0,7,"DESIGN#POSITIVE"],[31,38,"BATTERY#POSITIVE"],[40,56,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1673,"text":"Máy dùng tốt mượt nhma thỉnh thoảng vẫn lag chạy chậm!","label":[[0,12,"GENERAL#POSITIVE"],[23,54,"PERFORMANCE#NEUTRAL"]],"Comments":[]}
+{"id":2012,"text":"\"Máy bị đóm trắng này là sao ạ, mới mua được mấy hôm mà bị như này rồi. Mình phải làm sao ạ\"","label":[[1,17,"DISPLAY#NEGATIVE"]],"Comments":[]}
+{"id":5285,"text":"Hiển thị siêu nét, màu sắc chính xác cho công việc đồ họa","label":[[0,57,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":4519,"text":"sở hữu màn hình lớn 15,6 inch cho công việc đạt hiệu quả cao, màn hình bao quát toàn cảnh","label":[[0,89,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":1631,"text":"\"Hình ảnh đẹp, âm thanh tốt, chạy nhiều cửa sổ mượt\"","label":[[1,13,"DISPLAY#POSITIVE"],[15,27,"MULTIMEDIA_DEVICES#POSITIVE"],[29,51,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5304,"text":"Bàn phím số tạo cho việc xử lý văn bản liên quan được nhanh hơn","label":[[0,63,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":5301,"text":"Máy khởi động nhanh, cổng kết nối tương thích với nhiều thiết bị","label":[[0,19,"PERFORMANCE#POSITIVE"],[21,64,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":1303,"text":"Sp hư hầu hết phần bên trong","label":[[0,28,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":4990,"text":"Sản phẩm rất tốt ạ","label":[[0,18,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":1911,"text":"Dùng tính năng cơ bản ok. Tuy nhiên thân vỏ máy ko được cứng cáp như kì vọng.","label":[[0,24,"GENERAL#POSITIVE"],[36,76,"DESIGN#NEGATIVE"]],"Comments":[]}
+{"id":1864,"text":"\"Sản phẩm đẹp, gọn, nhẹ, lướt web văn phòng mượt. Pin khoảng 4 -5 tiếng.\"","label":[[1,23,"DESIGN#POSITIVE"],[25,48,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2620,"text":"\"Thiết kế tốt, tối giản, khá tinh tế, hợp với nguồi đi làm.","label":[[1,58,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5415,"text":"Truy cập mạng nhanh và bắt kết nối ổn định","label":[[0,42,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":2718,"text":"- Cấu hình: Máy i3, card MH tích hợp, Ram 8G. Nói chung là tác vụ các ứng dụng VP thì mượt mà, chạy tốt. Mình chạy thử một số game offline khá nặng ( dung lượng cài đặt từ 4GB, đến 9GB ) thấy chạy ok, đôi khi nó giật nhẹ , đứng chuột khoảng 1 giây.","label":[[12,247,"PERFORMANCE#NEUTRAL"]],"Comments":[]}
+{"id":4804,"text":"với 256GB SSD M2, laptop cho tốc độ cực nhanh","label":[[4,45,"STORAGE#POSITIVE"]],"Comments":[]}
+{"id":5165,"text":"máy đáp ứng tốt nhu cầu làm việc đồ họa cơ bản như chỉnh ảnh, video.","label":[[0,67,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2189,"text":"\"Đã sử dụng được gần 1 tháng và khá hài lòng về sản phẩm, máy chạy rất êm và mượt. Các bạn bán hàng nhiệt tình, chu đáo.\"","label":[[32,56,"GENERAL#POSITIVE"],[58,81,"PERFORMANCE#POSITIVE"],[83,119,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1912,"text":"\"Máy sao cứ mất wifi mỗi khi khởi động ấy, có khi còn mất lun chỗ kết nối wifi\"","label":[[1,78,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":5387,"text":"Xài ổn, tiền và cấu hình cũng phù hợp","label":[[0,37,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":2774,"text":"\"sản phẩm nhận về như hình, không rành về máy lắm nhưng dùng mấy ngày thấy ổn, chạy nhanh không bị nóng\"","label":[[70,77,"GENERAL#POSITIVE"],[79,89,"PERFORMANCE#POSITIVE"],[90,103,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":5295,"text":"máy sở hữu thiết kế đẹp, cấu hình ổn, mỏng nhẹ và nhiều cổng kết nối.","label":[[0,23,"DESIGN#POSITIVE"],[25,36,"PERFORMANCE#NEUTRAL"],[38,46,"DESIGN#POSITIVE"],[50,68,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":1931,"text":"\"Chơi game rất mượt , dù chơi game AAA lâu nhưng pin vẫn chắc chắn và máy rất mát\"","label":[[1,19,"PERFORMANCE#POSITIVE"],[49,66,"BATTERY#POSITIVE"],[69,81,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":4553,"text":"màn hình hiển thị rõ nét, âm thanh cực đã, thời gian bảo hành dài hạn, được hỗ trợ trả góp","label":[[0,24,"DISPLAY#POSITIVE"],[26,41,"MULTIMEDIA_DEVICES#POSITIVE"],[43,69,"WARRATY#POSITIVE"],[71,90,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1845,"text":"\"Máy cấu hình cao ,giá tầm trung phân khúc dành cho học sinh tuyệt vời\"","label":[[1,17,"PERFORMANCE#POSITIVE"],[18,70,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":1590,"text":"\"Quá tuyệt vời. Máy mát, chạy mượt mà mọi tác vụ\"","label":[[1,14,"GENERAL#POSITIVE"],[16,23,"FANS_COOLING#POSITIVE"],[25,37,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1356,"text":"máy sài ok . nhân viên nhiệt tình","label":[[0,10,"GENERAL#POSITIVE"],[13,33,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4774,"text":"bàn phím độ nảy rất ra dì và này nọ, màn hình thì đẹp khỏi bàn.","label":[[0,35,"KEYBOARD#POSITIVE"],[37,62,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":2455,"text":"\"Mọi thứ đều ổn, bàn phím đẹp, màu sắc đẹp, màn hình lớn. Tuy nhiên máy hơi chậm, chất lượng ánh sáng trung bình. giá mà nhà sản xuất cho ánh sáng tốt hơn cho dù giá cao hơn 1 chút thì tuyệt vời hơn nhiều\"","label":[[1,15,"GENERAL#POSITIVE"],[17,29,"KEYBOARD#POSITIVE"],[31,56,"DISPLAY#POSITIVE"],[68,80,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":4598,"text":"Máy cấu hình cao, chạy các tác vụ nặng rất mượt","label":[[0,47,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2651,"text":"2. Pin siêu trâu","label":[[3,16,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":4740,"text":"Sản phẩm có Điểm nhấn là phần logo ASUS được in 3D tạo nên vẻ tinh tế và phấn khích từ cái nhìn đầu tiên.","label":[[0,104,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":4820,"text":"Dùng tốt lắm Nếu mà tải Microsoft cho luôn thì càng tốt hơn","label":[[0,12,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5050,"text":"Máy khá nhẹ và thiết kế gọn mắt, chơi game tốt mà giá cũng khá mềm","label":[[0,31,"DESIGN#POSITIVE"],[33,46,"PERFORMANCE#POSITIVE"],[50,66,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":5294,"text":"laptop trang bị 512GB SSD PCIe siêu tốc, giúp máy khởi động cực nhanh với chỉ vài giây","label":[[0,86,"STORAGE#POSITIVE"]],"Comments":[]}
+{"id":5109,"text":"Máy mỏng nhẹ cực kfi ấy, cảm ơn các bạn FPTShop, lúc đầu mình thích con khác cơ mà các bạn chuyển huwogns sang con này ưng ý cực kì luôn","label":[[0,23,"DESIGN#POSITIVE"],[25,136,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1400,"text":"Sản phẩm rất tốt. Mạnh mẽ  và nhanh","label":[[0,16,"GENERAL#POSITIVE"],[18,35,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4594,"text":"Máy tính xách tay này có màn hình lớn, kiểu dáng mỏng nhẹ và đa dạng cổng kết nối tích hợp.","label":[[0,37,"DISPLAY#POSITIVE"],[39,57,"DESIGN#POSITIVE"],[61,90,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":5322,"text":"Máy tính sử dụng tốt , lướt êm , kết nối wifi nhanh , xử lý văn phòng rất ổn","label":[[0,30,"GENERAL#POSITIVE"],[33,51,"FEATURES#POSITIVE"],[54,76,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4515,"text":"sản phẩm có kích thước 15,6 inch, độ phân giải Full HD, viền siêu mỏng, tốc độ 144Hz, trải nghiệm game mượt mà","label":[[12,70,"DESIGN#POSITIVE"],[86,110,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1352,"text":"Mở lên đậy xuống laptop hơi cứng","label":[[0,32,"DESIGN#NEGATIVE"]],"Comments":[]}
+{"id":4482,"text":"Cấu hình máy rất mạnh, xử lý game hay đồ họa đều nhanh và mượt, mình hài lòng về sản phẩm này","label":[[0,21,"PERFORMANCE#POSITIVE"],[23,62,"PERFORMANCE#POSITIVE"],[64,93,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2019,"text":"Quạt hơi è è nếu dùng tác vụ nặng xíu.\"","label":[[0,12,"FANS_COOLING#NEGATIVE"]],"Comments":[]}
+{"id":4968,"text":"chính sách bảo hành từ hãng và từ cửa hàng khiến người dùng cực kỳ yên tâm","label":[[0,74,"WARRATY#POSITIVE"]],"Comments":[]}
+{"id":5306,"text":"Chất lượng sản phẩm tuyệt vời trong tầm giá. Bảo hành đầy đủ","label":[[0,43,"GENERAL#POSITIVE"],[45,60,"WARRATY#POSITIVE"]],"Comments":[]}
+{"id":2278,"text":"Bàn phím nông. Cảm giác đánh ko thích.pin dược khoảng 3 tiếng thôi.  Loa  tiếng rất nhỏ. Được cái máy nhẹ và có bàn phím nâng chống nóng máy.","label":[[0,37,"KEYBOARD#NEGATIVE"],[38,66,"BATTERY#NEUTRAL"],[68,87,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":5348,"text":"Sản phẩm ok. Thích hợp cho các cháu học online, hạn chế chơi game do cấu hình thấp. Đỡ phải quản lý","label":[[0,11,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5237,"text":" Pin thì tạm ổn tầm hơn 3 tiếng sử dụng với các tác vụ nhẹ. Còn lại mình khá ưng ý","label":[[1,58,"BATTERY#NEUTRAL"]],"Comments":[]}
+{"id":4780,"text":"Mình đã mua và sử dụng máy được một thời gian các thao tác đều rất mượt","label":[[0,71,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2249,"text":"\"Màn hình bị lỗi, mong mai bên kỹ thuật sẽ liên hệ khắc phục ạ! Mới dùng được thời gian ngắn đã hai lần gặp trục trặc, khá thất vọng!!!\"","label":[[1,16,"DISPLAY#NEGATIVE"],[119,132,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":1602,"text":"Thái độ phục khách hàng rất tốt và chuyên nghiệp","label":[[0,48,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5189,"text":"Máy còn hỗ trợ nâng cấp với thêm 1 khe RAM hỗ trợ tối đa lên tới 16GB và 1 khe cắm ổ cứng giúp bạn có thể nâng cấp máy một cách dễ dàng.","label":[[0,135,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5089,"text":"Máy dùng mượt, shop tư vấn và hỗ trợ khách nhiệt tình","label":[[0,13,"PERFORMANCE#POSITIVE"],[15,53,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1466,"text":"\"máy đẹp, mượt, đáng mua trong phân khúc\"","label":[[1,8,"DESIGN#POSITIVE"],[10,14,"PERFORMANCE#POSITIVE"],[16,40,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4591,"text":"Với RAM 8GB DDR5 4800MHz, bạn sẽ được tận hưởng hiệu suất cực nhanh trong cả đa nhiệm lẫn tải game.","label":[[38,99,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4625,"text":"Máy có thiết kế lạ mắt nhưng cũng khá đẹp, cấu hình mạnh, làm gì cũng mượt","label":[[0,41,"DESIGN#POSITIVE"],[43,74,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4843,"text":"Máy có màn hình đẹp, thiết kế rất đẹp. Shop giao hàng nhanh chóng, rất an tâm khi chọn mua sản phẩm của shop","label":[[0,19,"DISPLAY#POSITIVE"],[21,37,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":1724,"text":"\"Mới dùng thấy ổn,  nhung cấu hình thấp, nhiều lúc hơi nản.\"","label":[[26,39,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":4883,"text":"Máy nhỏ gọn nhưng các tính năng đều chạy mượt","label":[[0,11,"DESIGN#POSITIVE"],[18,45,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2026,"text":"\"Bàn phím khác lạ dùng không quen, bắt Wifi kém, còn lại bình thường. Máy mở lên cũng nhanh.\"","label":[[1,33,"KEYBOARD#NEUTRAL"],[35,47,"FEATURES#NEGATIVE"],[49,68,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":4986,"text":"Sản phẩm có cảm biến vân tay tích hợp ngay trong bàn di chuột, khiến trải nghiệm sử dụng rất trơn tru và nhanh chóng","label":[[0,116,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":5133,"text":"Máy thiết kế mỏng nhẹ, cấu hình tốt và viền màn hình cực mỏng","label":[[0,21,"DESIGN#POSITIVE"],[23,35,"PERFORMANCE#POSITIVE"],[39,61,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":1552,"text":"Máy chạy tốt. Đáp ứng tốt các nhu cầu sử dụng","label":[[0,12,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4666,"text":" kết nối nhanh, dễ dàng di chuyển mọi chỗ, cảm biến vân tay thông minh","label":[[1,14,"FEATURES#POSITIVE"],[16,41,"DESIGN#POSITIVE"],[43,70,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":1600,"text":"\"Tạm ổn, nhưng so với phiên bản cũ thì không bằng\"","label":[[1,49,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":4756,"text":"Sản phẩm nhỏ gọn hiệu năng các mặt đều rất ổn, mình mua kèm thêm Office các bạn cài đặt luôn rất tiện dụng","label":[[0,16,"DESIGN#POSITIVE"],[17,45,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2324,"text":"\"Sau 1 tháng sử dụng tôi cảm thấy mặc dù máy chạy cpu core i3 thế hệ thứ 8 cpu này hơi cũ , nhưng máy đảm nhiệm các tác vụ văn phòng và lướt web rất tốt\"","label":[[98,152,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5203,"text":"k giật lag, màn hình cũng đẹp, nói chung là quá tốt trong tầm giá","label":[[0,10,"PERFORMANCE#POSITIVE"],[12,29,"DISPLAY#POSITIVE"],[31,65,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":3028,"text":"\"sản phẩm có đầy đủ các cổng giao tiếp và kết nối cần thiết, hiệu năng máy rất mạnh mẽ, hệ thống tản nhiệt hiệu quả \"","label":[[1,59,"CONNECTIVITY#POSITIVE"],[61,86,"PERFORMANCE#POSITIVE"],[88,115,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":2616,"text":"\"Trải nghiệm không tốt. Lúc mua máy ngồi cùng nhân viên kĩ thuật cài máy cả tiếng không sao, vừa về đến nhà bỏ máy lên thì màn hình chớp giật liên tục, lại phải quay lên shop.","label":[[1,22,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":2181,"text":"\"Máy tốt dùng khá nhanh, thích hợp với dân văn phòng. Nhân viên cửa hàng nhiệt tình cài đặt máy giúp mình. Pin dùng ổn\"","label":[[1,52,"PERFORMANCE#POSITIVE"],[54,83,"SERVICE#POSITIVE"],[107,118,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":4581,"text":"đáp ứng hiệu năng công việc cực tốt","label":[[0,35,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5156,"text":"Thiết kế máy đẹp, mới dùng thấy ổn. Còn chất lượng thì phải dùng lâu mới đánh giá đc","label":[[0,16,"DESIGN#POSITIVE"],[18,84,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":5056,"text":"Đã mua sản phẩm này, cảm thấy hài lòng về chất lượng và dịch vụ của shop quốc lộ 20","label":[[21,72,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":3255,"text":"\"máy có Độ phân giải Full HD sắc nét, tấm nền IPS góc rộng và đặc biệt là tần số quét 120Hz, mang đến trải nghiệm chơi game mượt mà\"","label":[[1,91,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":4777,"text":"sản phẩm được trang bị đầy đủ các cổng giao tiếp và kết nối thông dụng, giao hàng nhanh chóng","label":[[0,70,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":5126,"text":"Máy có kiểu dáng hiện đại, màn hình sắc nét, cấu hình mạnh và khả năng xử lý đồ họa tổt","label":[[0,25,"DESIGN#POSITIVE"],[27,43,"DISPLAY#POSITIVE"],[45,87,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2142,"text":"\"Build tốt, ko ộp ẹp. Bản lề chắc chắn. Game liên tục nhưng nhiệt độ khá mát. Giá quá tốt ở thời điểm hiện tại.\"","label":[[1,38,"DESIGN#POSITIVE"],[60,76,"FANS_COOLING#POSITIVE"],[78,110,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":4892,"text":"Sản phẩm có hiệu năng cực kì mạnh mẽ, các tác vụ từ nặng tới nhẹ, đều đáp ứng vô cùng dễ dàng trơn tru","label":[[0,102,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1736,"text":"\"Sp thiết kế đẹp , sang trọng, gọn nhẹ, thuận tiện di chuyển\"","label":[[1,60,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":1351,"text":"\"Sản phẩm xài rất tốt, bền và đẹp\"","label":[[1,21,"GENERAL#POSITIVE"],[23,33,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5153,"text":"Một màn hình lớn luôn mang tới trải nghiệm hứng thú hơn ở mọi tác vụ và còn ấn tượng hơn khi đó là chơi game.","label":[[0,69,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":4646,"text":"Máy này mua rất ưng ý và nhân viên phục vụ rất tốt luôn Dùng Photoshop edit video này kia khá ok","label":[[0,21,"GENERAL#POSITIVE"],[25,55,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4542,"text":"Thời gian sử dụng lên tới 8 giờ cho công việc văn phòng, đây là thông số rất tuyệt vời của một chiếc laptop mỏng nhẹ như Lenovo IdeaPad 3.","label":[[0,56,"BATTERY#POSITIVE"],[64,116,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":1457,"text":"Máy chạy nhanh như gió chóng hết cả mặt","label":[[0,22,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4536,"text":"Ok good.. Máy đẹp, mượt mà, ổn. Nhược điểm là sạc hơi nóng","label":[[10,17,"DESIGN#POSITIVE"],[19,26,"PERFORMANCE#POSITIVE"],[32,58,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":2593,"text":"- cấu hình trong tầm giá quá ngon.","label":[[2,33,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2304,"text":"Bàn phím rất nông, có vẻ nhanh hỏng, trải nghiệm rất tệ. Hiện tại phải sử dụng bàn phím ngoài.\"","label":[[0,55,"KEYBOARD#NEGATIVE"]],"Comments":[]}
+{"id":5247,"text":"Dù gấp nên không có nhiều thời gian kiểm tra máy nhưng sử dụng tới giờ vẫn rất tốt.","label":[[0,82,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2457,"text":"Dùng cũng ok. Tuy nhiên có 1 số vấn đề là ram quá ít nên hay bị lag. Khắc phục bằng cách lắp thêm ram cũng như lắp thêm ổ cứng. Máy chạy ứng dụng edit khá lag. Đang tìm cách khắc phục. Chắc phải dùng proxy.","label":[[0,11,"GENERAL#POSITIVE"],[14,67,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":5461,"text":"Hình ảnh rõ nét, tính năng lọc ồn và âm thanh chất lượng tạo nên cuộc trò chuyện rõ ràng là đặc trưng riêng cho máy","label":[[0,15,"DISPLAY#POSITIVE"],[17,115,"FEATURES#POSITIVE"],[37,56,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":1707,"text":"Mới dùng được hơn 2 tháng đã hỏng main phải mang bảo hành","label":[[0,57,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":1786,"text":"\"Máy đang sử dụng ok, cảm ơn các bạn chăm sóc khách hàng rất tôt!\"","label":[[1,20,"GENERAL#POSITIVE"],[22,65,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1430,"text":"\"Máy đẹp, chạy mượt, thiết kế hiện đại\"","label":[[10,19,"PERFORMANCE#POSITIVE"],[21,38,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5201,"text":"Sản phẩm laptop Dell này còn có bộ sạc 45W cho khả năng sạc nhanh tiện lợi, giúp bạn tiết kiệm thời gian sạc và linh hoạt khi di chuyển","label":[[0,108,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":5390,"text":"Hiệu năng đồ họa mạnh mẽ, giúp người dùng giải quyết được nhiều việc cùng lúc và cho chất lượng hình ảnh sắc nét","label":[[0,77,"PERFORMANCE#POSITIVE"],[81,112,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":1540,"text":"\"Máy chạy nhanh , mượt. Chưa thấy gì bất ổn.!\"","label":[[1,22,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1817,"text":"\"Sản phẩm dùng mượt mà , thiết kế đẹp, nhân viên phục vụ tốt,chu đáo\"","label":[[1,22,"PERFORMANCE#POSITIVE"],[25,37,"DESIGN#POSITIVE"],[39,68,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5358,"text":"Shop tư vấn cực kỳ nhiệt tình","label":[[0,29,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5030,"text":"Hình ảnh sống động, rõ nét đến từng chi tiết","label":[[0,44,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5327,"text":"Thời lượng Pin thoải mái cho một ngày làm việc","label":[[0,46,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":5428,"text":"Máy có cấu hình khủng đáp ứng mọi nhu cầu về ứng dụng đồ họa, game ...","label":[[0,66,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5222,"text":"khu vực TouchPad của máy tính xách tay cũng khá lớn và hỗ trợ đa cử chỉ, cho phép các thao tác chuột của bạn luôn được đáp ứng một cách tức thời trên màn hình.","label":[[0,158,"TOUCHPAD#POSITIVE"]],"Comments":[]}
+{"id":4759,"text":"hiệu suất đơn nhân và đa nhân của Ryzen 7 6800H đều rất ấn tượng, giúp thoải mái chơi tốt các tựa game bom tấn","label":[[0,64,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4828,"text":"Mình đã trải nghiệm và cảm thấy hài lòng. Rất tốt để chạy code","label":[[0,40,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4852,"text":"Máy được chế tác từ chất liệu cao cấp với độ cứng, độ bền bỉ tốt theo thời gian, chịu được các tác động của bên ngoài","label":[[0,117,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":1895,"text":"Cấu hình chậm . Mình mua veè Chỉ. Để. lm việc vp. Nên như vậy cũng dc . Tạm","label":[[0,13,"PERFORMANCE#NEGATIVE"],[50,75,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":2372,"text":"Máy rất tệ. Mua máy giữa tháng 3 sử dụng 1h thì bị lỗi cam đã được đổi 1 máy mới. Sử dụng đến nay lại bị lỗi jack cắm tai nghe . Phải chờ 15 ngày đem lên hãng bảo hành","label":[[0,10,"GENERAL#NEGATIVE"],[48,58,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":1996,"text":"\"máy ngon trong tầm giá, build ngon, pin hơi yếu tầm 3 4 tiếng làm việc cơ bản, loa hơi bé\"","label":[[1,23,"GENERAL#POSITIVE"],[25,35,"PERFORMANCE#POSITIVE"],[37,48,"BATTERY#NEGATIVE"],[80,90,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":4535,"text":"Sản phẩm có hiệu năng tốt kèm màn 144Hz làm cảm giác trải nghiệm chơi game cực kì tốt","label":[[0,25,"PERFORMANCE#POSITIVE"],[44,85,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5009,"text":"sản phẩm được thiết kế với viền bao quanh siêu mỏng, tối đa hóa tầm nhìn. Tấm nền IPS cho chất lượng hình ảnh sắc sảo, trung thực.","label":[[0,72,"DESIGN#POSITIVE"],[74,129,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":1490,"text":"Đáp ứng tốt công việc văn phòng đơn giản","label":[[0,40,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4675,"text":"Vận hành nhanh, ổn định và yên tĩnh","label":[[0,35,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4569,"text":"Nói chung về Mac thì ko có gì để bàn, riêng máy này thì cực đỉnh Chip M1 thì hiệu suất không cần phải nói gì thêm, Pin bền. Cực hài lòng về máy này","label":[[44,113,"PERFORMANCE#POSITIVE"],[115,122,"BATTERY#POSITIVE"],[124,147,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4632,"text":"Chất lượng âm thanh hay màn hình cực nét","label":[[0,23,"MULTIMEDIA_DEVICES#POSITIVE"],[24,40,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5087,"text":"Giao hàng nhanh, chơi game, làm việc ổn. Vs tầm giá thì quá ok","label":[[17,39,"PERFORMANCE#NEUTRAL"],[41,62,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2601,"text":"\"Máy sài rất tốt, cầm lên so với Macbook Air M1 mà thấy còn nhẹ hơn luôn. Chơi game thoải mái chỉ có điều là nên có thêm đế tản nhiệt với ngồi máy lạnh, do ko chuyên gaming nên tản nhiệt máy bình thường, khi chơi phải mở chế độ Cooler Booster. Đổi từ chiếc ROG Zephyrus Ryzen 5 qua thấy hài lòng hơn vì mình cần nhẹ, cấu hình cũng hơn xíu, chỉ có màn 60Hz là chơi chưa bằng, gắn màn hình ngoài thì oke hơn\"","label":[[1,16,"GENERAL#POSITIVE"],[177,202,"FANS_COOLING#NEUTRAL"],[347,405,"DISPLAY#NEUTRAL"]],"Comments":[]}
+{"id":5138,"text":"Nhờ sức mạnh của chip M1, MacBook Air 13 M1 có khả năng xử lý đồ họa mạnh gấp 5 lần và hoàn toàn đủ năng lực chỉnh sửa, xử lý các video độ phân giải 4K.","label":[[0,151,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2078,"text":"\"Pin mau hết (chưa được 1h sử dụng). Bản lề phải gởi hãng bảo hành sau 3 tháng sử dụng.","label":[[1,12,"BATTERY#NEGATIVE"],[37,86,"DESIGN#NEGATIVE"]],"Comments":[]}
+{"id":2315,"text":"\"Máy mỏng nhẹ, khá đẹp. Máy khá nóng mặc dù chỉ sử dụng các tác vụ bình thường như xem phim, lướt web; thời gian khởi động nguồn ko được nhanh cho lắm.\"","label":[[1,22,"DESIGN#POSITIVE"],[24,36,"FANS_COOLING#NEGATIVE"],[103,150,"PERFORMANCE#NEUTRAL"]],"Comments":[]}
+{"id":2780,"text":"\"màn hình viền micro-edge siêu mỏng, đúng là chiếc laptop văn phòng thời thượng trong tầm giá hấp dẫn.","label":[[1,35,"DISPLAY#POSITIVE"],[45,101,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2626,"text":"Bạn nào dùng văn phòng và cần máy pin trâu thì nên mua, màn hình công nghệ TN tuy khg đẹp bằng màn IPS nhưng có cổng HDMI 2.0 nên gắn thêm màn hình IPS lớn bên ngoài thì làm việc sẽ ok\"","label":[[30,42,"BATTERY#POSITIVE"],[56,102,"DISPLAY#NEGATIVE"],[109,125,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":4816,"text":"Sau gần 1 tuần sử dụng, máy thiết kế đẹp, màn hình sắc nét, thao tác khá nhanh","label":[[24,40,"DESIGN#POSITIVE"],[42,58,"DISPLAY#POSITIVE"],[60,78,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4478,"text":"Máy có cấu hình mạnh, âm thanh sống động, bảo hành chính hãng nên mọi người in tâm sử dụng","label":[[0,20,"PERFORMANCE#POSITIVE"],[21,40,"MULTIMEDIA_DEVICES#POSITIVE"],[42,90,"WARRATY#POSITIVE"]],"Comments":[]}
+{"id":4668,"text":"Đáp ứng tốt mọi hoạt động đa nhiệm. Có thể mở cùng lúc nhiều ứng dụng, chạy các tệp tin nặng, mở vài chục tab trên trình duyệt web mà vẫn mượt mà nhé","label":[[0,34,"PERFORMANCE#POSITIVE"],[36,149,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4796,"text":"chất lượng âm thanh chuẩn, kèm theo web cực nét giúp cho việc thực hiện các cuộc video được đạt chất lượng cao","label":[[0,25,"MULTIMEDIA_DEVICES#POSITIVE"],[36,110,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":5351,"text":"Tính năng Q-control cho phép bạn chỉnh tốc độ quạt để tối ưu hiệu suất hay kiểm soát nhiệt độ.","label":[[0,93,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":5444,"text":"Chất lượng âm thanh rõ ràng và chuyên nghiệp","label":[[0,44,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":2262,"text":"\"Máy chạy rất nhanh và êm, hầu như không nghe tiếng quạt kêu. Chạy tốt các ứng dụng và cả game luôn. Chỉ có 2 cổng USB Type-C nên hơi ít.\"","label":[[1,25,"PERFORMANCE#POSITIVE"],[27,60,"FANS_COOLING#POSITIVE"],[101,136,"CONNECTIVITY#NEUTRAL"]],"Comments":[]}
+{"id":1443,"text":"Lap chơi 1 hồi bị đơ tự reset máy luôn","label":[[0,38,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":2578,"text":"Kết nối các thiết bị Bluthoothe có hơi rè 1 chút","label":[[0,48,"CONNECTIVITY#NEGATIVE"]],"Comments":[]}
+{"id":5333,"text":"Máy có màn hình OLED đẹp tuyệt vời, chỉ tiếc có thêm Card rời nữa thì hết sẩy","label":[[0,34,"DISPLAY#POSITIVE"],[36,77,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":1292,"text":"Trải nghiệm sản phẩm rất tốt","label":[[0,28,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5144,"text":"Linh hoạt với 4 chế độ sử dụng khác nhau","label":[[0,40,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":1592,"text":"\"Rất hài lòng, sản phẩm chất lượng hơn giá tiền.\"","label":[[1,47,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2783,"text":"\"Sản phẩm có kiểu dáng nhỏ gọn, trọng lượng khá nhẹ và cấu hình thì vẫn đủ mạnh để làm việc và giải trí\"","label":[[1,51,"DESIGN#POSITIVE"],[55,103,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4773,"text":"Máy đẹp, nhẹ, dùng hơn tháng đến hiện tại ổn không treo lag, dùng nhiều soft cùng chạy thì pin từ 3-4h","label":[[0,12,"DESIGN#POSITIVE"],[14,59,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2159,"text":"\"Máy dùng tốt, mượt mà, build ổn chắc chắn, nhân viên tư vấn nhiệt tình, chỉ là quạt max speed thì tiếng sẽ hơi ồn\"","label":[[1,42,"PERFORMANCE#POSITIVE"],[44,71,"SERVICE#POSITIVE"],[73,114,"FANS_COOLING#NEUTRAL"]],"Comments":[]}
+{"id":4958,"text":"hỗ trợ mạng WiFi 6 tốc độ cao và công nghệ khử ồn AI khi đàm thoại cho âm lượng to, rõ","label":[[0,29,"FEATURES#POSITIVE"],[33,86,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":4572,"text":"Asus Vivobook D515DA-EJ1364W có sẵn ổ cứng SSD 512GB, vừa cho dung lượng lưu trữ lớn, vừa tăng tốc toàn diện máy tính.","label":[[32,118,"STORAGE#POSITIVE"]],"Comments":[]}
+{"id":1901,"text":"Máy chạy rất chậm. Sài word;excel hay bị lag đứng máy. Trải nghiệm không tốt","label":[[0,53,"PERFORMANCE#NEGATIVE"],[55,76,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":5426,"text":"tốc độ truyền dữ liệu nhanh như chớp , pin cực tốt, thiết kế sang trọng","label":[[0,36,"CONNECTIVITY#POSITIVE"],[39,50,"BATTERY#POSITIVE"],[52,71,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":1313,"text":"Máy dùng mượt màn đẹp pin trâu","label":[[0,13,"PERFORMANCE#POSITIVE"],[14,21,"DISPLAY#POSITIVE"],[22,30,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":5288,"text":"Thiết kế tinh tế và cấu hình thực sự tuyệt vời, mình không có gì để chê luôn.","label":[[0,16,"DESIGN#POSITIVE"],[20,46,"PERFORMANCE#POSITIVE"],[48,76,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2629,"text":"\"máy vẫn dùng tốt tuy nhiên. có rất nhièu thứ khiến mình không hài lòng.  úc mua các nhân viên không tư vấn rõ chế độ bảo hành các kiểu và chỉ lo chốt máy. lúc mua về mới hỏi thì thấy chế độ bảo hành chậm, tốn rất nhiều thời gian. rồi nhiều thứ như 1 sỗ lỗi phát sinh do phần mềm mình nhờ hỗ trợ online cũng không được bắt buộc phải ra cửa hàng. một số phần mềm của máy mình chưa biết sử dụng hỏi thì nhân viên bảo hành cũng không biết nốt. tóm lại máy sử dụng tốt, còn dịch vụ chưa tốt\"","label":[[1,27,"GENERAL#POSITIVE"],[470,486,"SERVICE#NEGATIVE"]],"Comments":[]}
+{"id":1958,"text":"\"máy tạm ổn","label":[[1,11,"GENERAL#NEUTRAL"]],"Comments":[]}
+{"id":4967,"text":"Cùng thưởng thức âm nhạc chất lượng cao trên laptop MSI Modern với khả năng hỗ trợ âm thanh 24bit\/192kHz chuyên nghiệp","label":[[5,39,"MULTIMEDIA_DEVICES#POSITIVE"],[67,118,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":5313,"text":"sản phẩm được tập hợp đầy đủ các cổng kết nối thông dụng cao cấp","label":[[0,64,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":2069,"text":"\"Pin tuột rất nhanh, mặc dù đã được tư vấn là pin cầm 4 tiếng, nhưng chưa được 2 tiếng đã hết pin\"","label":[[1,19,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":5257,"text":"máy hoạt động yên tĩnh, nhiều cổng kết nối thông minh, hệ thống tản nhiệt hiệu quả","label":[[0,22,"FANS_COOLING#POSITIVE"],[24,53,"CONNECTIVITY#POSITIVE"],[55,82,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":4654,"text":"Mua được giá rẻ, cấu hình tốt, hàng  FPT thì khỏi lo chất lượng","label":[[0,15,"PRICE#POSITIVE"],[17,29,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4664,"text":"Sản phẩm có giá khá tốt, nhiều ưu đãi đi kèm và rất hài hòng với sự hỗ trợ của shop.","label":[[0,44,"PRICE#POSITIVE"],[48,84,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4662,"text":"cấu hình mạnh, chạy tốt các ứng dụng văn phòng, giá thành tốt","label":[[0,13,"PERFORMANCE#POSITIVE"],[15,61,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5202,"text":"Hiệu năng xử lý tốt, đa tác vụ mượt mà","label":[[0,38,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2403,"text":"\"Rất nhanh hết pin, mình mua sáng nay, về dùng các tác vụ cơ bản  ,chưa tính xem YouTube mà máy trong vòng 7 phút ,từ 51 xuống 43 phần trăm pin. Không biết có khắc phục dc ko?\"","label":[[1,18,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":2662,"text":"2. Máy lâu lâu bị lỗi không phản hồi thao tác, chỉ có ép tắt máy rồi mở lại mới dùng tiếp được. (Cái này bị từ lúc giao máy, nhân viên giao cũng chật vật xử lí vấn đề này).","label":[[3,21,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":1553,"text":"\"Sản phẩm khá ổn , đặt hàng và giao hàng nhanh\"","label":[[1,16,"GENERAL#POSITIVE"],[19,46,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1297,"text":"\"Máy chạy mượt, kiểu dáng đẹp\"","label":[[1,14,"PERFORMANCE#POSITIVE"],[16,29,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":4793,"text":"Laptop được trang bị một bàn phím fullsize, bao gồm cả bàn phím số và hàng phím F, các phím bấm được phủ lên một lớp nhám, mang lại cảm giác bấm rất dễ chịu và thích tay.","label":[[0,169,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":1306,"text":"Mọi người lưu ý pin k tốt lắm","label":[[16,29,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":2574,"text":"Tác vụ xử lý nhanh","label":[[0,18,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2760,"text":"Sản phẩm chất lượng tốt và nhiều khuyến mãi hấp dẫn. Rất ưng cách phục vụ của chi nhánh 74 vĩnh thông","label":[[0,23,"GENERAL#POSITIVE"],[27,101,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4672,"text":"Hiện tại tốt, chưa phát sinh vấn đề gi về máy","label":[[0,45,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5044,"text":"Mẫu đẹp, chất lượng, thời trang","label":[[0,31,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":2223,"text":"\"Máy mình mua về sài tầm 2 tháng thì loa máy không nghe được, Trong khi tai nghe thì vẫn nghe bình thường, Vậy là lỗi gì vậy shop\"","label":[[37,60,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":4698,"text":"dược tích hợp Quạt tản nhiệt 3D AeroBlade thế hệ thứ 5 với khả năng lưu thông khí cực tốt, nhiệt càng nóng thì tốc độ quay càng tăng, quá trình tản nhiệt diễn ra liên tục.","label":[[59,170,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":2432,"text":"\"nhân viên tư vấn nhiệt tình. điểm trừ lớn nhất mình không thích trên con máy này là khe tản nhiệt nằm giữa màn hình, nghe nhạc hoạc làm việc 1 lúc thôi là khí nóng phả ngay lên màn hình\"","label":[[1,28,"SERVICE#POSITIVE"],[30,116,"FANS_COOLING#NEGATIVE"]],"Comments":[]}
+{"id":4950,"text":"hiết kế máy tinh tế, lớp phủ bên trong máy mịn và không bám vân tay, touchpad to và phủ gương cho cảm giác tốt hơn","label":[[0,67,"DESIGN#POSITIVE"],[69,114,"TOUCHPAD#POSITIVE"]],"Comments":[]}
+{"id":4896,"text":"Sau 1 tháng sử dụng thấy cũng khá ổn, loa máy này hơi nhỏ hơn máy khác nhưng vẫn oke","label":[[0,36,"GENERAL#NEUTRAL"],[38,70,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":5065,"text":"Máy được trang bị RAM onboard LPDDR4X thế hệ mới, dung lượng 8 GB thoải mái cho công việc, khởi chạy máy hay tải các phần mềm nhanh","label":[[0,131,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":1480,"text":"Laptop cấu hình ổn đủ để làm việc cơ bản","label":[[0,18,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5466,"text":"Máy có bàn phím số rất tiện lợi, cấu hình ổn, sử dụng được tốt các tác vụ văn phòng cơ bản","label":[[0,31,"KEYBOARD#POSITIVE"],[33,90,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2441,"text":"Nhân viên tư vấn tổng đài chăm sóc nhiệt tình, nhanh chóng và đầy đủ.\"","label":[[0,68,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5128,"text":"bàn phím êm dễ dàng bấm và độ nảy cao, bền","label":[[0,42,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":4623,"text":"Chip và GPU đều là những sản phẩm mới nhất hiện nay giúp cho công việc được xử lý nhanh hơn","label":[[0,91,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4709,"text":"Viên pin dung lượng lớn 75Wh giúp máy tính có thể làm việc được trong thời gian lên tới 18 giờ liên tục","label":[[0,103,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":2369,"text":"\"mới mua buổi chiều, tối vè test thì thấy lâu lâu lỗi kết nối mạng, rồi camera bật lên đen xì, chán quá =)) không biết có đổi trả được không, máy móc làm ăn tệ quá tệ\"","label":[[50,66,"FEATURES#NEGATIVE"],[72,93,"MULTIMEDIA_DEVICES#NEGATIVE"],[142,166,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":1841,"text":"Sản phẩm có vẻ nhanh hết pin k dg vẫn bị sụt thời lượng PIN k quá dài","label":[[0,69,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":2892,"text":"Sản phẩm dùng được 3-4 tiếng sau mỗi lần sạc đầy. Tuy không nhiều nhưng đủ đáp ứng nhu cầu sử dụng của mình","label":[[0,107,"BATTERY#NEUTRAL"]],"Comments":[]}
+{"id":4551,"text":"Máy vô cùng cứng cáp, thiết kế chuẩn dáng gaming, chơi game hay thiết kế đều mượt, nói chung là mình rất ưng sản phẩm này.","label":[[0,48,"DESIGN#POSITIVE"],[50,81,"PERFORMANCE#POSITIVE"],[83,121,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2554,"text":"\"Từ trải nghiệm thực tế: pin trâu thấy bà, phản hồi lẹ, gần như không có độ trễ (chip mới), do đó máy hơi nóng (vì máy thiết kế kim loại nên tản nhiệt tốt), bàn phím độ nảy rất ra dì và này nọ, màn hình thì 2K ô lét đẹp khỏi bàn. Túm lại với giá dưới 25tr thì đối với tui con này xứng đáng.Đeo huy chương :)))\"","label":[[25,41,"BATTERY#POSITIVE"],[43,79,"PERFORMANCE#POSITIVE"],[157,192,"KEYBOARD#POSITIVE"],[194,228,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":2221,"text":"\"Máy rất nhanh xuống pin, mình muốn đổi trả sản phẩm. Lúc tư vấn nhân viên k nói là màn hình cảm ứng, đến lúc thanh toán mới nói\"","label":[[1,24,"BATTERY#NEGATIVE"],[54,128,"SERVICE#NEGATIVE"]],"Comments":[]}
+{"id":4800,"text":"thẻ tín dụng mua kết hợp với giá giảm cực tốt, nói chung so với giá bên ngoài thì nhiều ưu đãi hơn","label":[[0,98,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":2631,"text":"\"sau 3 tháng test máy thì mình viết đánh giá từ khách mua thế này: 1 máy hơi yếu so vs phân khúc, ( cái này win 11 nó chiếm nhiều quá) nên ko khai thác hết công xuất máy dc,. 2 máy chạy êm nếu bạn chơi game nhe, nhẹ thì ổn thôi chứ game mạnh thì máy khá nóng,.... 3 điểm trừ chí mạng nếu như các bạn là dân game, pin ko chơi quá 2h thường thì 1h 30' đến 1h 40' là toang, nếu các bạn muốn mua thì máy cũng ổn vì điên năng tiêu thụ cực ít, mình đang treo 24\/7 mỗi tháng tiêu khoảng 30 đến 50 kw điện\"","label":[[67,96,"PERFORMANCE#NEGATIVE"],[246,258,"FANS_COOLING#NEGATIVE"]],"Comments":[]}
+{"id":5012,"text":"ok. san pham dep, cau hinh manh, phu hop muc gia ok.","label":[[4,16,"DESIGN#POSITIVE"],[18,31,"PERFORMANCE#POSITIVE"],[33,51,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":5122,"text":"Hệ thống bảo mật thông minh","label":[[0,27,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":4689,"text":"sản phẩm sử dụng hệ thống âm thanh 6 loa bao gồm 4 loa trầm và 2 loa bổng, phát ra âm thanh 3D Dolby Atmos đầy ấn tượng","label":[[0,119,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":4694,"text":"Máy sử dụng card đồ họa NVIDIA GeForce RTX 3050 cho hiệu năng mạnh mẽ, rất phù hợp với những con người hay game như tui","label":[[0,69,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5051,"text":"Sau 1 tháng sử dụng thấy cũng khá ổn, loa máy này hơi nhỏ hơn máy khác vd như rog, asus nhưng đổi lại hiệu năng cũng ok, về tản nhiệt sử dụng phần mềm hoặc chơi game mát","label":[[0,36,"GENERAL#NEUTRAL"],[38,57,"MULTIMEDIA_DEVICES#NEGATIVE"],[102,119,"PERFORMANCE#POSITIVE"],[124,169,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":3079,"text":"\"da dùng được 7 tháng , máy xử lý các tác vụ văn phòng tạm ổn, phục vụ tốt các nhu cầu giải trí và làm việc hàng ngày","label":[[24,117,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2371,"text":"Máy dùng cho văn phòng và các tác vụ cơ bản rất tốt. Cấu hình ổn trong tầm giá. Chạy mượt mà không lag. Nhân viên tư vấn và hỗ trợ nhiệt tình. Chất lượng dịch vụ tốt.","label":[[53,102,"PERFORMANCE#POSITIVE"],[104,165,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5094,"text":"sản phẩm có thiết kế màu vàng cát đẹp thanh lịch, độc đáo, đồng thời sở hữu cấu hình ấn tượng, trải nghiệm rất tốt","label":[[0,57,"DESIGN#POSITIVE"],[69,93,"PERFORMANCE#POSITIVE"],[95,114,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":2300,"text":"Chạy êm ít hư vặt. Nhân viên TGDD hỗ trợ nhiệt tình.\"","label":[[0,17,"PERFORMANCE#POSITIVE"],[19,51,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5254,"text":"Các tác vụ nhẹ thì máy vẫn đáp ứng cực tốt, mình mua cho con học Online rất tiện","label":[[0,42,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4974,"text":"Màn hình cảm ứng cực chất, giải trí thú vị hơn bao giờ hết","label":[[0,25,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":4802,"text":"vừa có được tốc độ của SSD, vừa có không gian bộ nhớ rộng lớn của của HDD.","label":[[0,73,"STORAGE#POSITIVE"]],"Comments":[]}
+{"id":5239,"text":"máy có thiết kế gọn nhẹ, cấu hình mạnh, chạy tốt các phần mềm thiết kế","label":[[0,23,"DESIGN#POSITIVE"],[25,70,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4966,"text":"Tất cả đường nét trên laptop đều thiết kế tinh tế, thanh lịch nhưng cũng không kém phần mạnh mẽ, đậm chất thương hiệu","label":[[0,117,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":2406,"text":"Máy khá ổn nhưng bắt Wifi hơi yếu.","label":[[0,10,"GENERAL#POSITIVE"],[17,33,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":5082,"text":"Máy đẹp, bàn phím êm. Sẽ trải nghiệm từ từ","label":[[0,7,"DESIGN#POSITIVE"],[9,20,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":2192,"text":"\"sử dụng trước mắt thấy máy êm, truy cập nhanh, mọi thao tác trên máy ổn. Tuy nhiên màn hình xài bị loá mắt, hơi khó chịu\"","label":[[24,72,"PERFORMANCE#POSITIVE"],[84,121,"DISPLAY#NEGATIVE"]],"Comments":[]}
+{"id":1933,"text":"\"Máy nhẹ, chạy êm. Hơi nóng nhưng ko ảnh hưởng tốc độ. Ổn sau gần 10 ngày sử dụng\"","label":[[1,8,"DESIGN#POSITIVE"],[10,17,"PERFORMANCE#POSITIVE"],[19,27,"FANS_COOLING#NEUTRAL"],[55,81,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":1730,"text":"\"Chất lượng máy  tốt","label":[[1,20,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":1715,"text":"\"Hàng chuẩn , mạnh, nét, giá được giảm tốt so với cấu hình\"","label":[[1,24,"GENERAL#POSITIVE"],[26,43,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":4506,"text":"Laptop cực mượt. Chạy nhanh. Nhân viên FPT hỗ trợ nhiệt tình. Good :)))","label":[[0,27,"PERFORMANCE#POSITIVE"],[29,60,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1293,"text":"Máy hay bị ngắt kết nối wifi","label":[[0,28,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":1467,"text":"\"Máy đẹp, tốt. Nhân viên tư vấn tận tâm.\"","label":[[1,8,"DESIGN#POSITIVE"],[10,13,"GENERAL#POSITIVE"],[15,39,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4960,"text":"dòng máy này có trang bị đèn nền cho bàn phím, có thể dễ dàng thao tác, quan sát rõ ràng trong tối","label":[[16,98,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":5242,"text":"Máy chỉ mỏng 17mm và trọng lượng 1,41kg. Rất nhẹ nhàng để mang đi bất cứ đâu, shop giao hàng đúng hẹn","label":[[0,76,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":2397,"text":"\"máy nhìn gọn đẹp , xài các tác vụ mượt, tuy nhiên có đôi lúc kết nối wifi không được trong khi các thiết bị khác vẫn dùng bình thường.","label":[[1,17,"DESIGN#POSITIVE"],[20,39,"PERFORMANCE#POSITIVE"],[62,85,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":1667,"text":"Màn hình chỉ nhìn ở độ phân giải hd nên nhìn hơi nhòe","label":[[0,53,"DISPLAY#NEGATIVE"]],"Comments":[]}
+{"id":4887,"text":"dùng nhiều soft cùng chạy thì pin từ 3-4h. Màn hình đẹp, phím nảy","label":[[0,41,"BATTERY#NEUTRAL"],[43,55,"DISPLAY#POSITIVE"],[57,65,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":4527,"text":"SSD M2 siêu tốc, giúp chạy đa nhiệm mượt mà, tốc độ khởi động, mở ứng dụng nhanh chóng","label":[[17,86,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":3444,"text":"\"Chất lượng sản phẩm tệ và dịch vụ của fpt shop quá tệ vừa mua hôm qua sạc không vô đem ra bảo hành thì bảo gửi trung tâm kiểm định 5 ngày, mọi người đừng nên mua máy này và mua tại fpt\"","label":[[1,23,"GENERAL#NEGATIVE"],[27,54,"SERVICE#NEGATIVE"]],"Comments":[]}
+{"id":4835,"text":"Máy chạy khá mượt, Nói chung máy dùng ổn, xứng đáng với giá tiền.","label":[[0,17,"PERFORMANCE#POSITIVE"],[19,64,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4505,"text":"Máy tính mua dùng tốt học tập, giải trí mượt mà. Giao hàng tận nơi miễn phí","label":[[0,47,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4518,"text":"Máy chạy mát lắm, ít nóng, các phần mềm tương thích tốt, nên mua nhé","label":[[0,25,"FANS_COOLING#POSITIVE"],[27,55,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4856,"text":"Máy có nhiều tính năng thực sự chuyên nghiệp, rất xứng đáng với giá tiền","label":[[0,44,"FEATURES#POSITIVE"],[46,72,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5350,"text":"Màn hình có thể lọc ánh sáng xanh, không gây hại cho mắt","label":[[0,56,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":1405,"text":"Sản phẩm dùng tốt màn hình OLED đẹp","label":[[0,17,"GENERAL#POSITIVE"],[18,35,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5105,"text":"Máy có cấu hình tốt so với giá thành và mỏng nhẹ nên mình có thể mang theo dễ dàng nữa","label":[[0,86,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5199,"text":"sản phẩm cao cấp hàng đầu trong quá trình xử lý đồ họa","label":[[0,54,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":1458,"text":"\"Chất lượng sản phẩm tốt, đồ hoạ sắc nét\"","label":[[1,24,"GENERAL#POSITIVE"],[26,40,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5229,"text":"tương thích đầy đủ các cổng kết nối thông dụng","label":[[0,46,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":1422,"text":"\"Mới dùng, pin cũng bt. Đc 2 tiếng à.\"","label":[[11,22,"BATTERY#NEUTRAL"]],"Comments":[]}
+{"id":4595,"text":"Thoải mái làm nhiều việc cùng lúc, tăng cường năng suất mà laptop vẫn đáp ứng một cách hoàn hảo.","label":[[0,96,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2650,"text":"1. Màn hình 2k tuyệt vời","label":[[2,24,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":2425,"text":"Máy chạy nhanh ổn định tuy nhiên máy vẫn còn một số lỗi hk đáng kể chạy nhưng tác vụ nặng thì máy hơi chậm và đứng hình không đáng kể nếu nâng cấp ram và SSD lên thì máy chạy tuyệt vời","label":[[0,119,"PERFORMANCE#NEUTRAL"]],"Comments":[]}
+{"id":4813,"text":"Em này là tuyệt nhất với các bạn sinh viên và nhân viên văn phòng đó","label":[[0,68,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5115,"text":"Nhân viên tư vấn nhiệt tình, máy chạy tác vụ tốt, mượt","label":[[0,27,"SERVICE#POSITIVE"],[29,54,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2676,"text":"\"k mỏng nhưng nhẹ, vỏ nhựa sờ khá chán. tab web 4 tab là sẽ có tình trạng reload. Pin 2-4 tùy tác vụ. Máy nhanh nóng, quạt gió mà n chạy thì tiếng khá to, nóng cả tay đang gõ phím. Con này yếu nên chỉ tác vụ văn phòng với giải trí nhẹ nhàng thôi. Cam hơi chán, gọi là đủ dùng.  Loa ổn nhưng thỉnh thoảng đang dùng bị dè một tiếng rất khó chịu, đấy thiêng lắm đang gõ thì nó rè cái, thấy bảo nhiều máy đều bị vậy nên không khen được. Nói chung với tầm giá rẻ này, b nào muốn có một chiếc máy mới, màn ok, xem phim giải trí bth thì mua, nếu không nên lựa chọn máy khác có thể là máy đã qua sd nhưng option ổn hơn. Nếu có nút hơi tệ chắc mình sẽ ấn nma mình mua vội không chọn kĩ càng nên cũng là cái duyên. Bạn nhân viên nhiệt tình là điểm cộng duy nhất.\"","label":[[1,38,"DESIGN#NEGATIVE"],[102,166,"FANS_COOLING#NEGATIVE"],[181,192,"PERFORMANCE#POSITIVE"],[247,275,"MULTIMEDIA_DEVICES#NEUTRAL"],[705,729,"SERVICE#NEGATIVE"]],"Comments":[]}
+{"id":4934,"text":"Máy dùng khá oke hiệu năng tốt, màn hình ổn trong tầm giá","label":[[0,16,"GENERAL#POSITIVE"],[17,30,"PERFORMANCE#POSITIVE"],[32,43,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":2301,"text":"Laptop pin rất mau hết ... Hệ thống âm thanh thì nhỏ sao với các loại hãng laptop khác cùng giá ... Lốp nhựa tạo cho laptop ko đẹp mắt nhìn quá tệ","label":[[0,22,"BATTERY#NEGATIVE"],[27,52,"MULTIMEDIA_DEVICES#NEGATIVE"],[100,146,"DESIGN#NEGATIVE"]],"Comments":[]}
+{"id":4599,"text":"hiệu suất và thời lượng pin tuyệt vời nhất từ trước đến nay","label":[[13,37,"BATTERY#POSITIVE"]],"Comments":[]}
+{"id":4637,"text":"Máy thiết kế gọn nhẹ, giá thành hợp lý và cấu hình cơ bản là đủ dùng đối với sinh viên như mình","label":[[0,20,"DESIGN#POSITIVE"],[22,38,"PRICE#POSITIVE"],[42,69,"PERFORMANCE#NEUTRAL"]],"Comments":[]}
+{"id":2165,"text":"\"Mới dùng 1 ngày đầu. Máy hình dáng đẹp. Khởi động nhanh. Vân tay nhạy. Màn hình hơi ám vàng. Mọi tác vụ nhanh, mượt\"","label":[[22,39,"DESIGN#POSITIVE"],[58,70,"FEATURES#POSITIVE"],[72,92,"DISPLAY#POSITIVE"],[94,116,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4865,"text":"Laptop thì chưa lâu dài nên ko đánh giá được nhưng anh nhân viên tư vấn rất nhiệt tình và tuyệt vời","label":[[55,99,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1440,"text":"\"Máy quá chậm, gõ word cũng ko chạy nổi\"","label":[[1,39,"PERFORMANCE#NEGATIVE"]],"Comments":[]}
+{"id":2921,"text":"\"máy có hệ thống tản nhiệt rất hiệu quả, cấu hình ổn, có thể đáp ứng được nhu cầu học tập và giải trí của mình\"","label":[[1,39,"FANS_COOLING#POSITIVE"],[42,110,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4886,"text":"Laptop xài rất là ok xài rất là êm với lại đối với mình là cho 100 điểm mọi người nên xài thử ok lắm","label":[[0,20,"GENERAL#POSITIVE"],[21,34,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":1470,"text":"Zung thì OK nhưng bắt mạng Wifi hơi kém","label":[[0,11,"GENERAL#POSITIVE"],[18,39,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":5469,"text":"máy đem đến khả năng làm việc đa nhiệm, hiệu quả hơn, công việc trôi chảy hơn, tuyệt vời","label":[[0,88,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2213,"text":"\"Sản phẩm dùng ổn, pin thực tế tầm 7 8 tiếng mac ventura. Nhân viên tư vấn và hỗ trợ rất nhiệt tình. Bảo hành apple chính hãng\"","label":[[1,17,"GENERAL#POSITIVE"],[19,44,"BATTERY#POSITIVE"],[58,99,"SERVICE#POSITIVE"],[101,126,"WARRATY#POSITIVE"]],"Comments":[]}
+{"id":4742,"text":"Máy có cấu hình mạnh, màn hình full HD sắc nét","label":[[0,20,"PERFORMANCE#POSITIVE"],[22,46,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":5406,"text":"Máy tính của hãng lenovo đang dùng tốt nha\"","label":[[0,42,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5474,"text":"Cài các ứng dụng rất dễ dàng, có nhân viên hỗ trợ","label":[[0,49,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4597,"text":"khả năng tản nhiệt tốt là ưu thế của máy dòng hiện đại làm máy ko bị nóng khi dùng","label":[[0,82,"FANS_COOLING#POSITIVE"]],"Comments":[]}
+{"id":2073,"text":"\"Máy mượt, màn hình ok. Có chăng xài 11 chưa quen lắm thôi. Vote 5 sao cho sản phẩm và điện máy ạ!\"","label":[[1,9,"PERFORMANCE#POSITIVE"],[11,22,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":1851,"text":"\"Rất ok, máy xịn, khởi động nhanh, màn hình đẹp, phím bấm to và dễ nhìn\"","label":[[1,16,"GENERAL#POSITIVE"],[17,33,"PERFORMANCE#POSITIVE"],[35,47,"DISPLAY#POSITIVE"],[49,71,"KEYBOARD#POSITIVE"]],"Comments":[]}
+{"id":4888,"text":"Với những ai thường xuyên đi công tác hoặc có nhu cầu sử dụng laptop mọi nơi mọi lúc, Asus Zenbook 14X OLED UM5401QA-KN209W thực sự là lựa chọn đáng để cân nhắc.","label":[[86,160,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4706,"text":"máy với công nghệ màn hình chống chói, mang đến trải nghiệm hình ảnh rất tuyệt vời trong tầm giá.","label":[[0,97,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":4832,"text":"Máy có Màn hình viền siêu mỏng, kiểu dáng vuông vắn mạnh mẽ và logo TUF nổi bật ở mặt lưng thật sự rất đẹp đúng chất game thủ,","label":[[7,125,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":4844,"text":"Sản phẩm cấu hình tốt, khuyến mãi thiết thực và nhân viên nhiệt tình","label":[[0,21,"PERFORMANCE#POSITIVE"],[48,68,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4719,"text":"Bản lề linh hoạt độc đáo; kết nối và tháo rời với bàn phím dễ dàng qua cơ chế nam châm từ tính, hỗ trợ tư vấn nhiệt tình và chu đáo","label":[[0,24,"DESIGN#POSITIVE"],[26,94,"DESIGN#POSITIVE"],[96,131,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":1899,"text":"đối với tui thì tui thấy làm nặng ko thể làm 🥲 nhanh hết pin lắm mọi người","label":[[0,44,"PERFORMANCE#NEGATIVE"],[48,61,"BATTERY#NEGATIVE"]],"Comments":[]}
+{"id":5038,"text":"Máy tính sử dụng tốt, đạt nhu cầu, cảm ơn","label":[[0,33,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4877,"text":"Hiệu năng dẫn đầu với Intel Core i7 Alder Lake giúp xử lý công việc thật mượt mà","label":[[0,80,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":2641,"text":"\"Về chất lượng laptop, thấy ổn, chơi liên minh max setting ko giật lag, nhưng màn hình hơi tối, không được sáng cho lắm, hơi thất vọng.","label":[[23,70,"PERFORMANCE#POSITIVE"],[72,119,"DISPLAY#NEGATIVE"]],"Comments":[]}
+{"id":4647,"text":"Máy mỏng nhẹ, kiểu dáng thanh lịch và cấu hình xử lý cực tốt","label":[[0,34,"DESIGN#POSITIVE"],[38,60,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4864,"text":"Màn hình viền mỏng cả 4 cạnh, tỉ lệ mới tối ưu cho công việc và giải trí","label":[[0,72,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":5131,"text":" âm thanh phát ra trên HP Envy 13 không chỉ lớn, mà còn mang sắc âm phong phú, dải âm trầm ấm sâu lắng.","label":[[1,102,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":4863,"text":"Máy khởi động nhanh, các tính năng dùng để học tập và làm việc đều ok","label":[[0,69,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5400,"text":"thiết kế nhỏ gọn, thời lượng pin dài, hiệu năng ổn","label":[[0,16,"DESIGN#POSITIVE"],[18,36,"BATTERY#POSITIVE"],[38,50,"PERFORMANCE#NEUTRAL"]],"Comments":[]}
+{"id":5280,"text":"MÀn hình Oled thực sự quá đẹp, trải nghiệm xem phim hay lướt web thật sự rất đã","label":[[0,79,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":4979,"text":"màn hình chuẩn Retina 13,3 inch, độ phân giải 2560 x 1600 pixels siêu nét Tất cả đều hiển thị hoàn hảo, sắc nét, chân thực và màu sắc chính xác gần như tuyệt đối.","label":[[0,161,"DESIGN#POSITIVE"]],"Comments":[]}
+{"id":2638,"text":"\"Tôi đã mua và sử dụng hơn 1 tháng và cảm thấy sản phẩm tốt trong tầm giá. Về ưu điểm: Máy có cấu hình mạnh, màn hình đẹp, ngoại hình tương đối gọn nhẹ và đẹp, pin tương đối đủ dùng khi điều chỉnh mức ảnh sáng phù hợp; Về hạn chế: Loa khá nhỏ + webcam độ phân giải VGA nên còn nhiều hạn chế nên không thuận lợi lắm trong học trực tuyến.","label":[[87,107,"PERFORMANCE#POSITIVE"],[109,121,"DISPLAY#POSITIVE"],[123,158,"DESIGN#POSITIVE"],[160,181,"BATTERY#NEUTRAL"],[231,290,"MULTIMEDIA_DEVICES#NEGATIVE"]],"Comments":[]}
+{"id":2250,"text":"\"Đẹp, màn hình quá nét, máy đời mới nên hoạt động rất ổn định, tiết mỗi cái là tgdd ko hổ trợ nâng cấp ram","label":[[6,22,"DISPLAY#POSITIVE"],[40,61,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5364,"text":"dùng bền, ổn điinh với các kết nối","label":[[0,8,"GENERAL#POSITIVE"],[10,34,"CONNECTIVITY#POSITIVE"]],"Comments":[]}
+{"id":2117,"text":"Sử dụng được 2 tháng máy có tình trạng khởi động chậm. Wifi bắt sóng rất yếu có khi không bắt được wifi.","label":[[0,53,"MULTIMEDIA_DEVICES#NEGATIVE"],[55,103,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":1960,"text":"\"Máy chạy mượt, êm.Giá cũng rất ổn. Nhân viên thế giới di động tư vấn rất nhiệt tình.\"","label":[[1,18,"PERFORMANCE#POSITIVE"],[19,34,"PRICE#POSITIVE"],[36,84,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":4762,"text":"Màn hình 15.6 inch nổi bật, sắc nét , bao quát toàn cảnh","label":[[0,56,"DISPLAY#POSITIVE"]],"Comments":[]}
+{"id":4933,"text":"Trên cả tuyệt vời phù hợp với lại các bạn web develop, rất hài lòng","label":[[0,67,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5283,"text":"Webcam rõ nét, âm thanh rõ ràng giúp video call trở nên chuyên nghiệp hơn","label":[[0,73,"MULTIMEDIA_DEVICES#POSITIVE"]],"Comments":[]}
+{"id":1478,"text":"Nhưng có lúc đang dùng thì mất wiffi\"","label":[[6,36,"FEATURES#NEGATIVE"]],"Comments":[]}
+{"id":4854,"text":"Mình mua diện trả góp thôi nhưng thấy khá ưng về cách phục vụ của nhân viên các bên","label":[[38,75,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":2598,"text":"- không biết phải do màn chóng lóa không mà nhìn nó mờ quá.","label":[[2,58,"DISPLAY#NEGATIVE"]],"Comments":[]}
+{"id":4500,"text":"nhân viên phục vụ rất tốt, tư vấn đầy đủ chi tiết","label":[[0,49,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5266,"text":"Màn hình đẹp, chạy lâu không nóng máy. Bảo hành đầy đủ luôn","label":[[0,12,"DISPLAY#POSITIVE"],[14,37,"FANS_COOLING#POSITIVE"],[39,59,"WARRATY#POSITIVE"]],"Comments":[]}
+{"id":1441,"text":"Nhân viên nhiệt tình.giá cả phải chăng","label":[[0,20,"SERVICE#POSITIVE"],[21,38,"PRICE#POSITIVE"]],"Comments":[]}
+{"id":5188,"text":"Máy mỏng nhẹ, mẫu mã đẹp và cấu hình rất tốt","label":[[0,24,"DESIGN#POSITIVE"],[28,44,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":4736,"text":"Máy chạy nhanh , lập trình, build app\/web nhanh , tiết kiệm thời gian, đáng đồng tiền","label":[[0,47,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5073,"text":"Máy tốt, nhanh, rất thích hợp cho học tập và làm việc, đáp ứng mọi tác vụ cơ bản.","label":[[0,80,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":4910,"text":"Tư vấn hỗ trợ cài đặt tốt","label":[[0,25,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":5439,"text":"Máy đẹp, nhẹ, dùng hơn tháng đến hiện tại ổn không treo lag,","label":[[0,12,"DESIGN#POSITIVE"],[14,59,"GENERAL#POSITIVE"]],"Comments":[]}
+{"id":5395,"text":"thiết kế nam tính, màn hình hiển thị tốt với khả năng xoay 180 độ","label":[[0,17,"DESIGN#POSITIVE"],[19,40,"DISPLAY#POSITIVE"],[45,65,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":4580,"text":"hiệu năng xử lý mạnh mẽ, phát trực tuyến và đa nhiệm vô cùng dễ dàng.","label":[[0,68,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5160,"text":"Máy sử dụng rất ok.. cấu hình ổn, chạy mượt mà..trong tầm giá","label":[[0,18,"GENERAL#POSITIVE"],[21,46,"PERFORMANCE#POSITIVE"]],"Comments":[]}
+{"id":5113,"text":"Màn hình có khả năng chống nhìn trộm HP Sure View, khi kích hoạt sẽ giúp bạn tránh khỏi những ánh mắt tò mò","label":[[0,107,"FEATURES#POSITIVE"]],"Comments":[]}
+{"id":2233,"text":"\"Màn hình bị chói khi làm việc ở ngoài trời. Đôi khi hay bị đơ khi vừa quét virus, vừa lên mạng đọc báo. Sản phẩm quá gây thất vọng.\"","label":[[1,17,"DISPLAY#NEGATIVE"],[44,62,"PERFORMANCE#NEGATIVE"],[105,131,"GENERAL#NEGATIVE"]],"Comments":[]}
+{"id":4818,"text":"Anh tư vấn rất thân thiện mấy anh chị cũng dễ thương nữa. Rất thích Shop luôn","label":[[0,77,"SERVICE#POSITIVE"]],"Comments":[]}
+{"id":2573,"text":"Chạy mượt","label":[[0,9,"PERFORMANCE#POSITIVE"]],"Comments":[]}
