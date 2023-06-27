@@ -22,5 +22,5 @@ Crawl data on laptops on e-commerce websites to get user reviews and build a mod
 | Word      | - |53.08 | 55.55 | 52.74 |
 | Word + Character| -       | 52.48 | 55.00 | 52.33 |
 | Word + Character + Contextual | XLM-RoBERTa| 55.75 | 58.12 | 55.48 |
-| Word + Character + Contextual | PhoBERT| 55.75 | 58.12 | 55.48 |
+| Word + Character + Contextual | PhoBERT| 62.65 | 63.68 | 61.80 |
 
