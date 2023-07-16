@@ -7,6 +7,10 @@ Crawl data on laptops on e-commerce websites to get user reviews and build a mod
 
 * Experiments with different embeddings: word, character, and contextual embedding.  
 
+|   Input       | Output |
+| ------------- |:-------------:| 
+| **sản phẩm được trang bị đầy đủ các cổng giao tiếp và kết nối cần thiết** , **shop hỗ trợ tư vấn nhiệt tình**      | [0,69,"CONNECTIVITY#POSITIVE"][71,100,"SERVICE#POSITIVE"] | 
+
 ## Dataset
 |         | Train           | Dev  | Test |
 | ------------- |:-------------:| :-------------: | :-------------: | 
