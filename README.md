@@ -7,9 +7,16 @@ Crawl data on laptops on e-commerce websites to get user reviews and build a mod
 
 * Experiments with different embeddings: word, character, and contextual embedding.  
 
-|   Input       | Output |
-| ------------- |:-------------:| 
-| **sản phẩm được trang bị đầy đủ các cổng giao tiếp và kết nối cần thiết** , **shop hỗ trợ tư vấn nhiệt tình**      | [0,69,"CONNECTIVITY#POSITIVE"][71,100,"SERVICE#POSITIVE"] | 
+* There are 15 aspects: GENERAL, DISPLAY, BATTERY, TOUCHPAD, KEYBOARD, SERVICE, WARRATY, STORAGE, CONNECTIVITY, MULTIMEDIA_DEVICES, DESIGN, FANS_COOLING, PERFORMANCE, PRICE, FEATURES.
+
+* For more information, please read our report at: https://drive.google.com/file/d/1BS4wgo_RZuwQeELagDUyBhJF3X9rv26n/view?usp=sharing
+## Input & Output
+**Input**: sản phẩm được trang bị đầy đủ các cổng giao tiếp và kết nối cần thiết , shop hỗ trợ tư vấn nhiệt tình tuy nhiên màn hình mở đục mờ quá không sắc nét.
+
+Output:
+- CONNECTIVITY#POSITIVE: sản phẩm được trang bị đầy đủ các cổng giao tiếp và kết nối cần thiết
+- SERVICE#POSITIVE: shop hỗ trợ tư vấn nhiệt tình
+- DISPLAY#NEGATIVE: màn hình mở đục mờ quá không sắc nét
 
 ## Dataset
 |         | Train           | Dev  | Test |
